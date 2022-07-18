@@ -1,0 +1,4 @@
+2022/05/20 21:31:14 [error] 31308#32900: *1 CreateFile() "C:\Users\Taglio\Documents\DB_DISTRIBUTED\nginx-1.20.2/html/favicon.ico" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/05/20 21:37:15 [notice] 45640#12204: signal process started
+2022/05/20 22:40:32 [notice] 14056#19220: signal process started
+2022/05/21 01:50:19 [error] 31308#32900: *4 CreateFile() "C:\Users\Taglio\Documents\DB_DISTRIBUTED\nginx-1.20.2/html/favicon.ico" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
