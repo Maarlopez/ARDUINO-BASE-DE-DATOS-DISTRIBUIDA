@@ -1,0 +1,1 @@
+python server.py 8002 FILE2.DB

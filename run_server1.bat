@@ -1,0 +1,1 @@
+python server.py 8001 FILE1.DB
