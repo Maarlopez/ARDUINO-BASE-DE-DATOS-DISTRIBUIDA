@@ -1,0 +1,1 @@
+docker build -f Dockerfile -t db_node_controller .
